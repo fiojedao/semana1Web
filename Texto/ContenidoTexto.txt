@@ -1,0 +1,65 @@
+Áreas de Conocimiento
+
+El estudiante comprenderá el código HTML y su evolución a HTML5 y podrá utilizar de manera correcta las etiquetas. Entenderá la forma de aplicar e interactuar con las hojas de estilo en cascada (CSS3) de manera que permitan agilizar el proceso de diseño e implementación de un sitio web. Podrá aplicar eventos para elementos HTML con el lenguaje Javascript y podrá manipular la estructura y agregar efectos visuales con JQuery, así como consumir servicios web REST (REpresentational State Transfer) en formato de mensaje JSON y aplicación de estructura XML en los desarrollos WEB.
+
+Entre otros conceptos cubiertos está, la creación de sitios responsivos para ser visibles desde cualquier dispositivo con el uso de media queries y frameworks como Bootstrap, y por último introducirá en el desarrollo de aplicaciones del lado del servidor con el lenguaje PHP y/o ASP.net.
+
+Objetivos Específicos del Curso
+
+Obtener y aplicar los conocimientos necesarios en las tecnologías que permiten diseñar, desarrollar y publicar sitios web.
+
+Conocer los elementos y conceptos básicos que se involucran en la web para publicación de sitios.
+Conocer el lenguaje HTML y su evolución a HTML5 para desarrollar sitios web.
+Utilizar correctamente los selectores de estilo CSS3.
+Conocer el lenguaje Javascript, para elaborar enlaces con eventos en elementos html.
+Manipular la estructura de HTML y agregar efectos visuales con JQuery.
+Desarrollar sitios web responsivos con el framework Bootstrap.
+Consumir Servicios Web REST con formato JSON, con JavaScript y JQuery.
+Aplicar programación con XML en los desarrollos web.
+Conocer conceptos básicos del lenguaje PHP y/o ASP.net para desarrollo de aplicaciones del lado del servidor.
+
+Temas a Desarrollar
+Comentarios
+Formato Texto
+Párrafos
+Cabeceras
+Numeración y Listas
+Imágenes
+Enlaces
+Tablas
+Divisiones
+
+________________________________________________________________________________________________
+
+
+Home
+
+Tablas en HTML
+
+Indice
+
+Información General
+Tabla Básica
+Tabla Avanzada
+Tabla Avanzada con Título
+Tabla con Celdas Combinadas
+
+Información General
+
+En HTML, una poderosa herramienta a la hora de mostrar cierto tipo de información son las tablas. Hay muchos sitios que por su naturaleza no usan tablas aunque existen algunas ocasiones en que el papel de las tablas se vuelve esencial.
+
+El fin de las tablas es preferentemente contener datos ordenados en celdas (filas y columnas). En principio, no deben ser usadas para crear divisiones de cara a mostrar una página web, es decir, es preferible que una página web no esté dividida en distintos espacios usando tablas. Para maquetar una página web y dividirla en distintos espacios se usarán otras herramientas (capas, elementos flotantes, etc.).
+
+Las tablas pueden ser consideradas como un grupo de filas donde cada una de ellas contiene un grupo de celdas. Una tabla puede ser insertada en un documento HTML usando tres elementos básicos: el elemento TABLE (estructura contenedora principal), el elemento TR (contenedor de fila) y el elemento TD (celda).
+
+Tabla Básica
+1234	Juan	 juan@utn.ac.cr
+9876	Ana	 ana@utn.ac.cr
+5678	Pedro	 pedro@utn.ac.cr
+7765	Maria	 maria@utn.ac.cr
+3346	Carlos	 carlos@utn.ac.cr
+9908	Gabriela gabriela@utn.ac.cr
+
+
+
+
